@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "announcements": [
+    {
+      "id": "1.4.0-release",
+      "title": "Updated to v1.4.0",
+      "body": "### Highlights\n- Hosted announcements system\n- Licensing improvements\n- Bug fixes and performance improvements\n\n[Full release notes](https://github.com/DepartedReality/dr-sim-manager-releases/releases/tag/v1.4.0)",
+      "type": "release",
+      "version": "1.4.0",
+      "date": "2026-04-13",
+      "channels": ["stable", "beta"]
+    },
+    {
+      "id": "welcome-announcements",
+      "title": "Announcements are here!",
+      "body": "DR Sim Manager now supports in-app announcements. You'll see important updates, maintenance notices, and release highlights right here.\n\nYou can always access past announcements from the right-click context menu.",
+      "type": "info",
+      "date": "2026-04-13",
+      "channels": ["stable", "beta"],
+      "expires": "2026-05-13"
+    }
+  ]
+}
