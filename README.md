@@ -25,13 +25,14 @@ Beta builds are available as [pre-releases](https://github.com/DepartedReality/d
 
 ## Documentation
 
-Full documentation is available at [docs.departedreality.com](https://docs.departedreality.com).
+Full documentation is available at [docs.departedreality.com](https://docs.departedreality.com/dr-sim-manager).
 
 ## Support
 
-- Documentation: [docs.departedreality.com](https://docs.departedreality.com)
+- Documentation: [docs.departedreality.com](https://docs.departedreality.com/dr-sim-manager)
+- Discord: [Join the community](https://discord.gg/skn2HzpbQy)
 - Website: [departedreality.com](https://departedreality.com)
 
 ## License
 
-DR Sim Manager is proprietary software. A license key is required for use beyond the trial period.
+DR Sim Manager is proprietary software. A license key is required for use beyond the trial period. [Purchase a license](https://departedreality.com/products/dr-sim-manager-license).
