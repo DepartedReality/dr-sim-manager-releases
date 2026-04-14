@@ -2,22 +2,20 @@
   "schema_version": 1,
   "announcements": [
     {
-      "id": "1.4.0-release",
-      "title": "Updated to v1.4.0",
-      "body": "### Highlights\n- Hosted announcements system\n- Licensing improvements\n- Bug fixes and performance improvements\n\n[Full release notes](https://github.com/DepartedReality/dr-sim-manager-releases/releases/tag/v1.4.0)",
-      "type": "release",
-      "version": "1.4.0",
-      "date": "2026-04-13",
+      "id": "standalone-license-migration",
+      "title": "Migrating to Standalone Licenses",
+      "body": "### Important: Microsoft Store → Standalone Licenses\n\nDR Sim Manager is moving away from the Microsoft Store to a standalone licensing system.\n\n**If you purchased through the Microsoft Store, you will receive a free standalone license key** — no repurchase needed.",
+      "type": "warning",
+      "date": "2026-04-14",
       "channels": ["stable", "beta"]
     },
     {
-      "id": "welcome-announcements",
-      "title": "Announcements are here!",
-      "body": "DR Sim Manager now supports in-app announcements. You'll see important updates, maintenance notices, and release highlights right here.\n\nYou can always access past announcements from the right-click context menu.",
+      "id": "discord-server",
+      "title": "Join Our Discord Server",
+      "body": "### Join the DR Sim Manager Community\n\nWe have an official Discord server! Connect with other sim racers, get support, share your setups, and stay up to date with the latest news.\n\n**[Join Discord](https://discord.gg/skn2HzpbQy)**",
       "type": "info",
-      "date": "2026-04-13",
-      "channels": ["stable", "beta"],
-      "expires": "2026-05-13"
+      "date": "2026-04-14",
+      "channels": ["stable", "beta"]
     }
   ]
 }
