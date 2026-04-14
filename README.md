@@ -25,11 +25,11 @@ Beta builds are available as [pre-releases](https://github.com/DepartedReality/d
 
 ## Documentation
 
-Full documentation is available at [docs.departedreality.com](https://docs.departedreality.com/dr-sim-manager).
+Full documentation is available at [docs.departedreality.com/dr-sim-manager](https://docs.departedreality.com/dr-sim-manager).
 
 ## Support
 
-- Documentation: [docs.departedreality.com](https://docs.departedreality.com/dr-sim-manager)
+- Documentation: [docs.departedreality.com/dr-sim-manager](https://docs.departedreality.com/dr-sim-manager)
 - Discord: [Join the community](https://discord.gg/skn2HzpbQy)
 - Website: [departedreality.com](https://departedreality.com)
 
