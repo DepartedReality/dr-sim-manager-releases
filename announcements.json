@@ -4,7 +4,7 @@
     {
       "id": "standalone-license-migration",
       "title": "Migrating to Standalone Licenses",
-      "body": "### Important: Microsoft Store → Standalone Licenses\n\nDR Sim Manager is moving away from the Microsoft Store to a standalone licensing system.\n\n**If you purchased through the Microsoft Store, you will receive a free standalone license key** — no repurchase needed.",
+      "body": "### Important: Microsoft Store → Standalone Licenses\n\nDR Sim Manager is moving away from the Microsoft Store to a standalone licensing system.\n\n**If you purchased through the Microsoft Store, you will receive a free standalone license key** — no repurchase needed.\n\nFuture updates will be available from our **[GitHub Releases page](https://github.com/DepartedReality/dr-sim-manager-releases/releases)**.",
       "type": "warning",
       "date": "2026-04-14",
       "channels": ["stable", "beta"]
